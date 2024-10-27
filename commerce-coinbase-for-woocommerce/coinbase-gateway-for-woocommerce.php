@@ -4,7 +4,7 @@
  * Plugin URI: https://coderpress.co/products/coinbase-commerce-for-woocommerce/?utm_source=ccwc&utm_medium=plugin-uri
  * Author: CoderPress
  * Description: Coinbase Commerce For WooCommerce, Let your customer checkout with well known payment gateway.
- * Version: 1.6.3
+ * Version: 1.6.4
  * Author: CoderPress
  * Author URI: https://coderpress.co/products/coinbase-commerce-for-woocommerce/?utm_source=ccwc&utm_medium=author-uri
  * License: GPL v2 or later
@@ -54,7 +54,7 @@ if ( ! function_exists( 'ccfw_fs' ) ) {
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 define( 'CCFWC_PLUGIN_DIR_URL', plugin_dir_url( __FILE__ ) );
-define( 'CGFWC_VERSION', '1.6.3' );
+define( 'CGFWC_VERSION', '1.6.4' );
 
 if ( !function_exists( 'init_coinbase_commerce_wc' ) )
 {

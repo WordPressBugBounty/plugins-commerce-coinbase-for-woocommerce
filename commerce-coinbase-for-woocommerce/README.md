@@ -4,7 +4,7 @@ Donate link: https://coderpress.co/products/coinbase-commerce-for-woocommerce/?u
 Tags: crypto, coinbase, bitcoin, ethereum, litecoin
 Requires at least: 4.9
 Tested up to: 6.6
-Stable tag: 1.6.3
+Stable tag: 1.6.4
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,12 +13,12 @@ Coinbase Commerce is the best crypto gateway, allows users to checkout with popu
 
 == Description ==
 
-[Get Pro](https://coderpress.co/products/coinbase-commerce-for-woocommerce/?utm_source=ccwc&utm_medium=readme-get-pro) | [Pro Live Demo](https://coinbase.coderpress.co/shop/) | [Documentation](https://coderpress.co/docs/coinbase-commerce-for-woocommerce/?utm_source=ccwc&utm_medium=readme-documentation)
+[Get Pro👑](https://coderpress.co/products/coinbase-commerce-for-woocommerce/?utm_source=ccwc&utm_medium=readme-get-pro) | [Pro Live Demo](https://coinbase.coderpress.co/shop/) | [Documentation](https://coderpress.co/docs/coinbase-commerce-for-woocommerce/?utm_source=ccwc&utm_medium=readme-documentation)
 
 
 https://youtu.be/xBiiT51T390
 
-Coinbase is the best crypto gateway among other crypto exchange.
+Coinbase is the best crypto gateway, 1,000+ sites are using it with confidence.
 
 How to setup Coinbase Commerce on WooCommerce webstore:
 
@@ -28,10 +28,7 @@ How to setup Coinbase Commerce on WooCommerce webstore:
 * It will automatically appear to customer on checkout.
 
 = Our other plugins =
-> [Coinbase Commerce for Contact Form 7](https://wordpress.org/plugins/coinbase-commerce-for-contact-form-7/)
-> [Posts and Products Views for WooCommerce](https://wordpress.org/plugins/posts-and-products-views/)
-> [Emails Blacklist for Everest Forms](https://wordpress.org/plugins/emails-blacklist-everest-forms/)
-> [NOWPayments for WooCommerce](https://wordpress.org/plugins/nowpayments-for-woocommerce/)
+👉 [Midnight Deals for WooCommerce](https://coderpress.co/products/midnight-deals-for-woocommerce/)
 
 = Currencies Support = 
 * Bitcoin
@@ -55,11 +52,13 @@ How to setup Coinbase Commerce on WooCommerce webstore:
 * Priority Support
 * Easy Setup
 * Better Redirections
-* [Become Pro User](https://coderpress.co/products/coinbase-commerce-for-woocommerce/?utm_source=ccwc&utm_medium=readme-become-pro-user)
-* [Documentation](https://coderpress.co/docs/coinbase-commerce-for-woocommerce/?utm_source=ccwc&utm_medium=readme-documentation)
+* [Become Pro User👑](https://coderpress.co/products/coinbase-commerce-for-woocommerce/?utm_source=ccwc&utm_medium=readme-become-pro-user)
 
 
 == Changelog ==
+
+= 1.6.4 - Oct 27, 2024 =
+* Updated 🚀 - Updated SDK to latest version. 
 
 = 1.6.3 - Sept 11, 2024 =
 * Updated 🚀 - Updated SDK to latest version. 
@@ -113,4 +112,3 @@ FIX - Plugin will inform if WooCommerce is no activated.
 
 = 1.0 =
 Initial release.
-
