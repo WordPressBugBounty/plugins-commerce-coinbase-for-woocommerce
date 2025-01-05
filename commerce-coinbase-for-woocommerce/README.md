@@ -4,7 +4,7 @@ Donate link: https://coderpress.co/products/coinbase-commerce-for-woocommerce/?u
 Tags: crypto, coinbase, bitcoin, ethereum, litecoin
 Requires at least: 4.9
 Tested up to: 6.6
-Stable tag: 1.6.4
+Stable tag: 1.6.5
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -26,9 +26,6 @@ How to setup Coinbase Commerce on WooCommerce webstore:
 * Enable from WooCommerce > Settings > Payments > Coinbase Commerce Gateway. 
 * Enter API Key from Manage.
 * It will automatically appear to customer on checkout.
-
-= Our other plugins =
-👉 [Midnight Deals for WooCommerce](https://coderpress.co/products/midnight-deals-for-woocommerce/)
 
 = Currencies Support = 
 * Bitcoin
@@ -56,6 +53,9 @@ How to setup Coinbase Commerce on WooCommerce webstore:
 
 
 == Changelog ==
+
+= 1.6.5 - Jan 05, 2025 =
+* Updated 🚀 - Updated SDK to latest version. 
 
 = 1.6.4 - Oct 27, 2024 =
 * Updated 🚀 - Updated SDK to latest version. 
