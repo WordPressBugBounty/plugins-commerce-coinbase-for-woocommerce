@@ -3,8 +3,8 @@ Contributors: CoderPressCo, smusman98
 Donate link: https://coderpress.co/products/coinbase-commerce-for-woocommerce/?utm_source=ccwc&utm_medium=donate-link
 Tags: crypto, coinbase, bitcoin, ethereum, litecoin
 Requires at least: 4.9
-Tested up to: 6.6
-Stable tag: 1.6.5
+Tested up to: 6.7
+Stable tag: 1.6.6
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -53,6 +53,9 @@ How to setup Coinbase Commerce on WooCommerce webstore:
 
 
 == Changelog ==
+
+= 1.6.6 - Jan 28, 2025 =
+* Updated 🚀 - Updated SDK to latest version. 
 
 = 1.6.5 - Jan 05, 2025 =
 * Updated 🚀 - Updated SDK to latest version. 
