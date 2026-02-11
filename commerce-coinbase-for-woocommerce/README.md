@@ -1,9 +1,9 @@
 === Coinbase Commerce - Crypto Gateway for WooCommerce ===
-Contributors: CoderPressCo, smusman98
+Contributors: CoderPress
 Donate link: https://coderpress.co/products/coinbase-commerce-for-woocommerce/?utm_source=ccwc&utm_medium=donate-link
 Tags: crypto, coinbase, bitcoin, ethereum, litecoin
 Requires at least: 4.9
-Tested up to: 6.7
+Tested up to: 6.9
 Stable tag: 1.6.6
 Requires PHP: 5.2.4
 License: GPLv2 or later
